@@ -1,0 +1,11 @@
+cat [FILE]
+mkdir [FOLDER_NAME]
+cp [FILE] [DUPLICATE_FILE]
+mv [FILE] [MOVED_FILE]
+rm [FILE]
+rm -r [FOLDER]
+ls
+pwd
+cd
+cd [FOLDER]
+cd ..
